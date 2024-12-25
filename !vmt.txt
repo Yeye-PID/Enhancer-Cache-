@@ -1,0 +1,41 @@
+        [ Enhancer Cache - Nonroot ]
+                   Author 
+     Telegram Yeye_nat | Github Yeye-PID
+                version : 1.0
+       ////////////////\\\\\\\\\\\\\\\\
+            install with > Brevent
+            
+            
+ Disclemoer shell :
+- Script shell ini saya bikin untuk mengoptimalakan penyimpanan internal dengan memanfaatkan PM < package manager  And rm > untuk membersihkan cache secara berkala
+
+Dengan cara :
+- Membersihkan semua cache pada aplikasi yang telah di list dengan secara otomatsi, kerena interval cache telah di turunkan untuk mencegah penumpukan cache
+
+Efek yang didapat dari script :
+- Memperluas penyimpanan internal ( dengam membersihkan cache aplikasi yang di list di shell secara Otomtasi / tidak memakai while )
+- Meningakatkan stabilitas sistem
+- Meningkatkan performnace ( Rasakan sendiri )
+
+Recomened :
+- Gaming
+- Multiasking
+
+Note :
+- shell script ini tidak meyebabkan Aplikasi mana pun Crash dan lag dikerenakan sudah saya susun seteliti mungkin agar tidak bedampak pada aplikasi manapun dill..
+
+Penanggung Jawab 100% By :
+- @Yeye_nat | Telegram
+- Yeye-PID   | Github
+
+install :
+Ekstrak dulu zip ' ATB.zip ' Ke internal
+Lalu Jalankan Perintah down Here :
+rm -rf /data/local/tmp/* && cp /sdcard/Shell-Yeye/service /data/local/tmp && chmod +x /data/local/tmp/service && /data/local/tmp/service
+
+uninstall : RIBOOT YUOR PHONE 
+
+Disclemoer Efek :
+- Maaf jika script nya tidak begitu Berefek pada device kalian kerena tiap Device, Kernel And Versi Andorid Berbeda-beda Susah membuat script nya bekerja 100% dill..
+
+⚠️ Especially for those who want to use my script in your Module, please contact me & add credit @Yeye_nat
