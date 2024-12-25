@@ -9,12 +9,11 @@ internal tidak terbebani oleh cache
 - Meningaktakan performance
 - Meminimalkan crash pada aplikasi
 And Memperulas memory internall
+## Sarat penggua ❓️
+Orang itu harus sudah memahami modifikasi 
+perngkat dan paham akan besick nonroot dill.
 
- ## Sarat penggua ❓️
- Orang itu harus sudah memahami modifikasi 
- perngkat dan paham akan besick nonroot dill.
-
- ##⚠️WARING :
+ ## ⚠️WARING :
  Kalo penggun mau meyertakan script saya di dalam
  Module mohon sertakain creadit kalo tidak di sertakan
  creadit saya tidak bertanggunv jawab atas hal 
