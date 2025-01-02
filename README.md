@@ -1,6 +1,6 @@
 ![cid 1](img/images.jpeg)
 
- # Enhancer Cache 🍃
+# Enhancer Cache 🍃
 Adalah shell script yang saya bikin untuk 
 meninimalkan cache pada apalikasi agar memory
 internal tidak terbebani oleh cache
@@ -17,6 +17,10 @@ And Memperulas memory internall
 ## Sarat pengguna ❓️
 Orang itu harus sudah memahami modifikasi 
 perngkat dan paham akan besick nonroot dill.
+
+## PEMBUAT ❓️
+- Telegram : @Yeye_nat
+- Support  : https://t.me/shdow95
 
  ## ⚠️WARING :
  Kalo penggun mau meyertakan script saya di dalam
