@@ -9,6 +9,11 @@ internal tidak terbebani oleh cache
 - Meningaktakan performance
 - Meminimalkan crash pada aplikasi
 And Memperulas memory internall
+
+## Recomened ❓️
+- Gaming
+- Multiasking
+
 ## Sarat pengguna ❓️
 Orang itu harus sudah memahami modifikasi 
 perngkat dan paham akan besick nonroot dill.
